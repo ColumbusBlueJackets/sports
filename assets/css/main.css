@@ -145,6 +145,7 @@ input, select, textarea {
 	h2 {
 		font-size: 1.5em;
 		letter-spacing: 0.1em;
+		padding-top: 25px;
 	}
 
 	h3 {
@@ -2527,7 +2528,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("https://cms.nhl.bamgrid.com/images/photos/334592486/2400x1200/cut.png");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
